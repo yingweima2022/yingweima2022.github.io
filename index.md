@@ -21,12 +21,9 @@ Coming soon...
 Coming soon...
 
 
-
 ### Conferences: 
 
 Coming soon...
-
-  
 
 
 
@@ -51,8 +48,6 @@ Coming soon...
 - **[2020.8-2021.6]** [SPEED BOT](https://www.speedbot.net/zh-cn/about)
 
   3D Vision Algorithm Engineer [[Github](https://github.com/193769981/speedbot_cali)]
-
-
 
 
 
