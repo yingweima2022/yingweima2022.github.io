@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<!-- [python-img]: https://img.shields.io/github/languages/top/yueliu1999/Awesome-Deep-Graph-Clustering?color=lightgrey
-[stars-img]: https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?color=yellow
-[stars-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/stargazers
-[fork-img]: https://img.shields.io/github/forks/yueliu1999/Awesome-Deep-Graph-Clustering?color=lightblue&label=fork
-[fork-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=yueliu1999.Awesome-Deep-Graph-Clustering
-[adgc-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering -->
 
 # About Me
 
@@ -16,9 +9,7 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 
 # News
 
-
- 
-
+Coming soon...
 
 
 # Publication
