@@ -28,9 +28,9 @@ Coming soon...
 ### Under Review: 
 
 
-- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, xx, xx: *Towards a Unified Code Representation for Multilingual Code Search*.
-- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, xx, xx: *Multilingual Code Representation Learning for Code Understanding*.
-- **<font color="#0000FF">[Under Review]</font>** xx, xx, **Yingwei Ma**: *Code Comments Generation Based on Heterogeneous Graph Structure*.
+- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *Towards a Unified Code Representation for Multilingual Code Search*.
+- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Shanshan Li, Zhouyang Jia, Deze Wang, Yao Zhang, Ke Liu, Yun Xiong and Xiangke Liao: *Multilingual Code Representation Learning for Code Understanding*.
+- **<font color="#0000FF">[Under Review]</font>** Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*.
 
 # Open Source
 
