@@ -53,11 +53,11 @@ Coming soon...
   Supervisor: Prof. Shanshan Li
 
 
-- **[2017.9-2021.6]** 
+<!-- - **[2017.9-2021.6]** 
 
   B.E. in <a href="https://www.ysu.edu.cn/">Yanshan University at Qinhuangdao (YSU)</a>. 
 
-  Supervisor: A.P. Fengda Zhao
+  Supervisor: A.P. Fengda Zhao -->
 
 
 # Academic Service
