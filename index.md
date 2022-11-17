@@ -22,7 +22,7 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 ### Under Review: 
 
 - **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Shanshan Li, Zhouyang Jia, Deze Wang, Yao Zhang, Ke Liu, Yun Xiong and Xiangke Liao: *Multilingual Code Representation Learning for Code Understanding*.
-- 
+
 ### Journals: 
 
 Coming soon...
