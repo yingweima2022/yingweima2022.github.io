@@ -8,34 +8,29 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 
 # News
 
-Coming soon...
+- **[<font color="#FF0000">2022.09</font>]** I won the Outstanding students of the School of Computer Science, National University of Defense Technology.
 
 
 # Publication
 
-Coming soon...
+### Conferences: 
 
+-  **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *Towards a Unified Code Representation for Multilingual Code Search*.
+
+-  Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*.
+
+### Under Review: 
+
+- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Shanshan Li, Zhouyang Jia, Deze Wang, Yao Zhang, Ke Liu, Yun Xiong and Xiangke Liao: *Multilingual Code Representation Learning for Code Understanding*.
+- 
 ### Journals: 
 
 Coming soon...
 
-
-### Conferences: 
-
-Coming soon...
-
-
-### Under Review: 
-
-
-- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *Towards a Unified Code Representation for Multilingual Code Search*.
-- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Shanshan Li, Zhouyang Jia, Deze Wang, Yao Zhang, Ke Liu, Yun Xiong and Xiangke Liao: *Multilingual Code Representation Learning for Code Understanding*.
-- **<font color="#0000FF">[Under Review]</font>** Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*.
-
 # Open Source
 
-Coming soon...
-
+- MulA \[[Github](https://github.com/yingweima2022/MulCS)]
+- MulB \[[Github](https://github.com/yingweima2022/LAMCode)]
 
 # Intern Experience
 
@@ -55,7 +50,7 @@ Coming soon...
 
 - **[2017.9-2021.6]** 
 
-  B.E. in <a href="https://www.ysu.edu.cn/">Yanshan University at Qinhuangdao (YSU)</a>. 
+  B.E. in <a href="http://english.ysu.edu.cn/">Yanshan University(YSU) at Qinhuangdao, Hebei Province</a>.
 
   Supervisor: A.P. Fengda Zhao
 
@@ -67,4 +62,12 @@ Coming soon...
 
 # Award
 
-Coming soon...
+- **[2021]** Scholarship, NUDT.
+- **[2021]** Excellent Graduated Graduate Student of Hebei Province.
+- **[2020]** Recommendation for admission to NUDT.
+- **[2019-2020]** National Scholarship, Ministry of Education of the People’s Republic of China.
+- **[2018-2019]** National Scholarship, Ministry of Education of the People’s Republic of China.
+- **[2020]** First Class Prize, The 13th China Undergraduate Computer Design Competition.
+- **[2020]** First Class Prize, Algorithm Group, RoboMaster University Championship(RMUC).
+- **[2020]** National University Student Innovation and Entrepreneurship Annual Conference.
+- **[2019]** Second Class Prize, ASC19 Student Supercomputer Challenge.
