@@ -15,9 +15,9 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 
 ### Conferences: 
 
--  **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *Towards a Unified Code Representation for Multilingual Code Search*.
+-  **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *Towards a Unified Code Representation for Multilingual Code Search*. SANER, 2023.
 
--  Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*.
+-  Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. SANER, 2023.
 
 ### Under Review: 
 
