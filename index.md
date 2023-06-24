@@ -7,21 +7,24 @@ layout: default
 Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www.nudt.edu.cn/xysz/jsjxy/index.htm">College of Computer Science and Techenology</a>, NUDT. He is supervised by Prof. Shanshan Li in [Leopard Lab](https://leopard-lab.github.io/index.html). His research interests include code intelligence, software engineering and NLP.
 
 # News
-
-- **[<font color="#FF0000">2022.09</font>]** I won the Outstanding students of the School of Computer Science, National University of Defense Technology.
+- **[<font color="#FF0000">2023.03</font>]** I won the IEEE TCSE Distinguished Paper Award.
+- **[<font color="#FF0000">2022.09</font>]** I won the Outstanding Students of the School of Computer Science, National University of Defense Technology.
 
 
 # Publication
 
 ### Conferences: 
+- Xiangbing Huang, **Yingwei Ma**, Haifang Zhou, Zhijie Jiang, Yuanliang Zhang, Teng Wang, Shanshan Li, Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. 14th Asia-Pacific Symposium on Internetware (Internetware), Hang Zhou, China, August 4st-6th, 2023. (**Co-first author**, X.Huang is the Collaborative Advisor)
 
--  **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *Towards a Unified Code Representation for Multilingual Code Search*. SANER, 2023.(**IEEE TCSE Distinguished Paper Award**)
+-  **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**[<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>]**)
 
--  Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. SANER, 2023.
+-  Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) Macao SAR, China, March 21st-24th, 2023.
 
 ### Under Review: 
 
-- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Shanshan Li, Zhouyang Jia, Deze Wang, Yao Zhang, Ke Liu, Yun Xiong and Xiangke Liao: *Multilingual Code Representation Learning for Code Understanding*.
+- **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Yue Liu, Yue Yu, Yu Jiang, Changjian Wang, Shanshan Li, *At Which Training Stage Does Code Data Help LLM Reasoning?*, 2023.
+
+- **<font color="#0000FF">[Under Review]</font>** Jiaying Li, Yan Lei, Shanshan Li, Haifang Zhou, Yue Yu, Zhouyang Jia, **Yingwei Ma**, Teng Wang, *A Two-Stage Framework for Ambiguous Classification in Software Engineering.*, 2023.
 
 ### Journals: 
 
@@ -29,8 +32,8 @@ Coming soon...
 
 # Open Source
 
-- MulA \[[Github](https://github.com/yingweima2022/MulCS)]
-- MulB \[[Github](https://github.com/yingweima2022/LAMCode)]
+- MulCS: Towards a Unified Code Representation for Multilingual Code Search. \[[Github](https://github.com/yingweima2022/MulCS)]
+- LAMCode: Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. \[[Github](https://github.com/yingweima2022/LAMCode)]
 
 # Intern Experience
 
@@ -61,7 +64,6 @@ Coming soon...
 
 
 # Award
-
 - **[2021]** Scholarship, NUDT.
 - **[2021]** Excellent Graduated Graduate Student of Hebei Province.
 - **[2020]** Recommendation for admission to NUDT.
