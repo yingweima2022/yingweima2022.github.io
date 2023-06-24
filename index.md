@@ -7,9 +7,9 @@ layout: default
 Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www.nudt.edu.cn/xysz/jsjxy/index.htm">College of Computer Science and Techenology</a>, NUDT. He is supervised by Prof. Shanshan Li in [Leopard Lab](https://leopard-lab.github.io/index.html). His research interests include code intelligence, software engineering and NLP.
 
 # News
-- **[<font color="#FF0000">2023.05</font>]** One paper has been accepted by Internetware 23.
+- **[<font color="#FF0000">2023.05</font>]** One paper has been accepted by Internetware'23.
 - **[<font color="#FF0000">2023.03</font>]** I won the **<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**.
-- **[<font color="#FF0000">2023.03</font>]** Two papers have been accepted by SANER 23.
+- **[<font color="#FF0000">2023.03</font>]** Two papers have been accepted by SANER'23.
 - **[<font color="#FF0000">2022.09</font>]** I won the Outstanding Students of the School of Computer Science, National University of Defense Technology.
 
 
