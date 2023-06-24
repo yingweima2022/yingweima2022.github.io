@@ -7,7 +7,9 @@ layout: default
 Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www.nudt.edu.cn/xysz/jsjxy/index.htm">College of Computer Science and Techenology</a>, NUDT. He is supervised by Prof. Shanshan Li in [Leopard Lab](https://leopard-lab.github.io/index.html). His research interests include code intelligence, software engineering and NLP.
 
 # News
+- **[<font color="#FF0000">2023.03</font>]** One paper has been accepted by Internetware 23.
 - **[<font color="#FF0000">2023.03</font>]** I won the IEEE TCSE Distinguished Paper Award.
+- **[<font color="#FF0000">2023.03</font>]** Two papers have been accepted by SANER 23.
 - **[<font color="#FF0000">2022.09</font>]** I won the Outstanding Students of the School of Computer Science, National University of Defense Technology.
 
 
@@ -37,10 +39,14 @@ Coming soon...
 
 # Intern Experience
 
+- **[2023.4-now]** [Pengcheng Lab](https://www.pcl.ac.cn/)
+  Supervised by Prof. \[[Yue Yu](https://yuyue.github.io/)].
+  Research Intern, Pre-training Group.
+  Be responsible for code data collection and cleaning required for pre-training language models and then pre-training, instruction-tuning and testing code models.
+
 - **[2020.8-2021.6]** [SPEED BOT](https://www.speedbot.net/zh-cn/about)
-
   3D Vision Algorithm Engineer [[Github](https://github.com/193769981/speedbot_cali)]
-
+  Be responsible to calibrate about 60 industrial CCD cameras with OpenMVG and measure the large-scale car battery box.
 
 # Education
 
