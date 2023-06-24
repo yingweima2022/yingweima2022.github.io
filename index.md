@@ -16,11 +16,11 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 # Publication
 
 ### Conferences: 
-- **[<font color="#000066">Internetware</font>]** Xiangbing Huang, **Yingwei Ma**, Haifang Zhou, Zhijie Jiang, Yuanliang Zhang, Teng Wang, Shanshan Li, Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. 14th Asia-Pacific Symposium on Internetware (Internetware), Hang Zhou, China, August 4st-6th, 2023. (**Co-first author, X.Huang is the Collaborative Advisor**)
+- **[<font color="#0000FF">Internetware</font>]** Xiangbing Huang, **Yingwei Ma**, Haifang Zhou, Zhijie Jiang, Yuanliang Zhang, Teng Wang, Shanshan Li, Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. 14th Asia-Pacific Symposium on Internetware (Internetware), Hang Zhou, China, August 4st-6th, 2023. (**Co-first author, X.Huang is the Collaborative Advisor**)
 
-- **[<font color="#000066">SANER</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**)
+- **[<font color="#0000FF">SANER</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**)
 
-- **[<font color="#000066">SANER</font>]** Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) Macao SAR, China, March 21st-24th, 2023.
+- **[<font color="#0000FF">SANER</font>]** Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) Macao SAR, China, March 21st-24th, 2023.
 
 ### Under Review: 
 
