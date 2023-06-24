@@ -8,7 +8,7 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 
 # News
 - **[<font color="#FF0000">2023.05</font>]** One paper has been accepted by Internetware 23.
-- **[<font color="#FF0000">2023.03</font>]** I won the **[<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>]**.
+- **[<font color="#FF0000">2023.03</font>]** I won the **<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**.
 - **[<font color="#FF0000">2023.03</font>]** Two papers have been accepted by SANER 23.
 - **[<font color="#FF0000">2022.09</font>]** I won the Outstanding Students of the School of Computer Science, National University of Defense Technology.
 
@@ -18,15 +18,13 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 ### Conferences: 
 - Xiangbing Huang, **Yingwei Ma**, Haifang Zhou, Zhijie Jiang, Yuanliang Zhang, Teng Wang, Shanshan Li, Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. 14th Asia-Pacific Symposium on Internetware (Internetware), Hang Zhou, China, August 4st-6th, 2023. (**Co-first author**, X.Huang is the Collaborative Advisor)
 
--  **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**[<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>]**)
+-  **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**)
 
 -  Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) Macao SAR, China, March 21st-24th, 2023.
 
 ### Under Review: 
 
 - **<font color="#0000FF">[Under Review]</font>** **Yingwei Ma**, Yue Liu, Yue Yu, Yu Jiang, Changjian Wang, Shanshan Li, *At Which Training Stage Does Code Data Help LLM Reasoning?*, 2023.
-
-- **<font color="#0000FF">[Under Review]</font>** Jiaying Li, Yan Lei, Shanshan Li, Haifang Zhou, Yue Yu, Zhouyang Jia, **Yingwei Ma**, Teng Wang, *A Two-Stage Framework for Ambiguous Classification in Software Engineering.*, 2023.
 
 ### Journals: 
 
@@ -40,7 +38,7 @@ Coming soon...
 # Intern Experience
 
 - **[2023.4-now]** [Pengcheng Lab](https://www.pcl.ac.cn/)
-  Supervised by Prof. \[Yue Yu (https://yuyue.github.io/)].
+  Supervised by Prof. [Yue Yu](https://yuyue.github.io/).
   
   Research Intern, Pre-training Group.
   Be responsible for code data collection and cleaning required for pre-training language models and then pre-training, instruction-tuning and testing code models.
