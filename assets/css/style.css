@@ -1,0 +1,15 @@
+/* 覆盖默认布局的最大宽度 */
+.site {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.page-content {
+  max-width: 100% !important;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* 如果需要对主体内容容器进行其他调整，也可在此添加 */
