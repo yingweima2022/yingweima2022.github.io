@@ -19,6 +19,11 @@ Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www
 # Publication
 
 ### Conferences: 
+
+- **[<font color="#0000FF">ICLR</font>]**Yingwei Ma**, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li, At Which Training Stage Does Code Data Help LLMs Reasoning?. The 12th International Conference on Learning Representations (ICLR-24)
+, Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Spotlight, top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
+
+
 - **[<font color="#0000FF">Internetware</font>]** Xiangbing Huang, **Yingwei Ma**, Haifang Zhou, Zhijie Jiang, Yuanliang Zhang, Teng Wang, Shanshan Li, Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. 14th Asia-Pacific Symposium on Internetware (Internetware), Hang Zhou, China, August 4st-6th, 2023. (**Co-first author, X.Huang is the Collaborative Advisor**) [[paper](https://github.com/yingweima2022/yingweima2022.github.io/blob/main/ref/paper/Interware__MulCode.pdf)]
 
 - **[<font color="#0000FF">SANER</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao: *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
