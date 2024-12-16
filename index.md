@@ -7,7 +7,7 @@ layout: default
 Yingwei Ma (马迎伟) is now pursuing his master degree in <a href="https://www.nudt.edu.cn/xysz/jsjxy/index.htm">College of Computer Science and Techenology</a>, NUDT. He is supervised by Prof. Shanshan Li in [Leopard Lab](https://leopard-lab.github.io/index.html). His research interests include code intelligence, software engineering and NLP.
 
 <img src="https://github.com/user-attachments/assets/fd3558c7-5953-404b-8d89-59070a6a12b0" alt="tongyi" width="50px"/>
-
+<img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="50px"/>
 
 # News
 - **[<font color="#FF0000">2023.05</font>]** One paper has been accepted by Internetware'23.
