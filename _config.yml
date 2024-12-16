@@ -1,4 +1,13 @@
 title: Yingwei Ma
 logo: /assets/img/myw1.jpg
 google_analytics:
+
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 引入自定义样式
+markdown: kramdown
+kramdown:
+  input: GFM
