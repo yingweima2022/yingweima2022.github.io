@@ -49,7 +49,7 @@ Yingwei Ma (马迎伟) is a research scientist at Tongyi Laboratory, Alibaba Gro
 
 # Education
 
-- **[2021.9-now]** 
+- **[2021.9-2023.12]** 
 
   M.E. in <a href="https://english.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>. 
 
