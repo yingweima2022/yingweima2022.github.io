@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Yingwei Ma (马迎伟) is a research scientist at Tongyi Laboratory, Alibaba Group. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
+Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Group. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
 
 <img src="https://github.com/user-attachments/assets/fd3558c7-5953-404b-8d89-59070a6a12b0" alt="tongyi" width="50px"/>
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
@@ -60,7 +60,7 @@ Yingwei Ma (马迎伟) is a research scientist at Tongyi Laboratory, Alibaba Gro
 
   B.E. in <a href="http://english.ysu.edu.cn/">Yanshan University(YSU) at Qinhuangdao, Hebei Province</a>.
 
-  Supervisor: A.P. Fengda Zhao
+  Supervisor: Prof. Fengda Zhao
 
 
 # Academic Service
