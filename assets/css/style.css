@@ -1,20 +1,20 @@
-/* 覆盖默认布局的最大宽度 */
+/* 设置网站整体布局 */
 .site {
-  max-width: 90% !important;
-  width: 90% !important;
+  max-width: 80% !important;
+  width: 80% !important;
   margin: 0 auto;
   padding: 0;
 }
 
+/* 设置页面内容区域 */
 .page-content {
-  max-width: 90% !important;
-  width: 90%;
+  max-width: 100% !important;
+  width: 100%;
   margin: 0 auto;
 }
 
-/* 如果需要对主体内容容器进行其他调整，也可在此添加 */
+/* 图片设置保持不变 */
 img[src="/assets/img/myw1.jpg"] {
-  width: 300px;     /* 按需调整宽度 */
-  height: auto;     /* 自动按比例调整高度 */
+  width: 300px;
+  height: auto;
 }
-
