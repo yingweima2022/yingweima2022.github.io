@@ -14,7 +14,7 @@
 
 /* 如果需要对主体内容容器进行其他调整，也可在此添加 */
 img[src="/assets/img/myw1.jpg"] {
-  width: 500px;     /* 按需调整宽度 */
+  width: 300px;     /* 按需调整宽度 */
   height: auto;     /* 自动按比例调整高度 */
 }
 
