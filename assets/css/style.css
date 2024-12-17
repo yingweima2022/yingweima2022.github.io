@@ -1,17 +1,17 @@
 /* 设置网站整体布局 */
 .site {
-  max-width: 80% !important;
   width: 80% !important;
+  max-width: 1200px; /* 设置一个最大宽度，防止在超大屏幕上过宽 */
   margin: 0 auto;
   padding: 0;
 }
 
-/* 设置页面内容区域 */
 .page-content {
-  max-width: 100% !important;
-  width: 100%;
+  width: 80% !important;
+  max-width: 1200px;
   margin: 0 auto;
 }
+
 
 /* 图片设置保持不变 */
 img[src="/assets/img/myw1.jpg"] {
