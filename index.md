@@ -10,6 +10,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
 
 # News
+- **[<font color="#FF0000">2024.12</font>]** One paper has been accepted by ISSTA'25.
 - **[<font color="#FF0000">2024.09</font>]** One paper has been accepted by NeurIPS'24.
 - **[<font color="#FF0000">2024.06</font>]** Alibaba Lingma Agent obtained SOTA on SWE-Bench Lite.
 - **[<font color="#FF0000">2024.01</font>]** One paper has been accepted by ICLR'24 (Spotlight).
@@ -23,8 +24,6 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 ### Preprints:
 
-- **[<font color="#0000FF">2024</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. arXiv preprint arXiv:2411.00622. [[paper](https://arxiv.org/pdf/2411.00622)]
-
 - **[<font color="#0000FF">2024</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, How to Understand Whole Software Repository?. arXiv preprint arXiv:2406.01422. (**<font color="#FF0000">Alibaba Lingma Agent</font>**) [[paper](https://arxiv.org/pdf/2406.01422)]
 
 - **[<font color="#0000FF">2024</font>]** Yalan Lin, **Yingwei Ma**, Rongyu Cao, Binhua Li, Fei Huang, Xiaodong Gu, Yongbin Li, LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues. arXiv preprint arXiv:2411.13941. [[paper](https://arxiv.org/pdf/2411.13941)]
@@ -36,7 +35,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 ### Peer-Reviewed: 
 
-
+- **[<font color="#0000FF">ISSTA</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25) [[paper](https://arxiv.org/pdf/2411.00622)]
 
 - **[<font color="#0000FF">ICLR</font>]** **Yingwei Ma**, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li, At Which Training Stage Does Code Data Help LLMs Reasoning?. The 12th International Conference on Learning Representations (ICLR-24)
 , Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Spotlight, top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
