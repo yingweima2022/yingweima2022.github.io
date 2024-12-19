@@ -10,6 +10,9 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
 
 # News
+- **[<font color="#FF0000">2024.09</font>]** One paper has been accepted by NeurIPS'24.
+- **[<font color="#FF0000">2024.06</font>]** Alibaba Lingma Agent obtained SOTA on SWE-Bench Lite.
+- **[<font color="#FF0000">2024.01</font>]** One paper has been accepted by ICLR'24 (Spotlight).
 - **[<font color="#FF0000">2023.05</font>]** One paper has been accepted by Internetware'23.
 - **[<font color="#FF0000">2023.03</font>]** I won the **<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**.
 - **[<font color="#FF0000">2023.03</font>]** Two papers have been accepted by SANER'23.
