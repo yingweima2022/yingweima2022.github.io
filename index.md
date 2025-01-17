@@ -52,7 +52,6 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 # Patents
 - [2024] Yingwei Ma. 代码处理方法以及代码修复测试方法 (Code Processing Method and Code Repair Testing Method). Patent Application No. CN118760612A, Alibaba (China) Co., Ltd. (Application Date: 2024.09.04, Publication Date: 2024.10.11)
-- 
 - [2024] Yingwei Ma. 代码处理模型训练、代码任务处理以及代码开发方法 (Code Processing Model Training, Code Task Processing and Code Development Method). Patent Application No. CN118860900A, Alibaba (China) Co., Ltd. (Application Date: 2024.09.19, Publication Date: 2024.10.29)
 
 
