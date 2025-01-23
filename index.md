@@ -10,6 +10,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
 
 # News
+- **[<font color="#FF0000">2025.01</font>]** One paper has been accepted by ICLR'25.
 - **[<font color="#FF0000">2025.01</font>]** Two patents on code processing and intelligent software development methods have been published.
 - **[<font color="#FF0000">2024.12</font>]** One paper has been accepted by ISSTA'25.
 - **[<font color="#FF0000">2024.09</font>]** One paper has been accepted by NeurIPS'24.
