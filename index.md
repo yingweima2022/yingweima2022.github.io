@@ -10,6 +10,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
 
 # News
+- **[<font color="#FF0000">2025.03</font>]** One paper has been accepted by FSE'25 Industry.
 - **[<font color="#FF0000">2025.01</font>]** One paper has been accepted by ICLR'25.
 - **[<font color="#FF0000">2025.01</font>]** Two patents on code processing and intelligent software development methods have been published.
 - **[<font color="#FF0000">2024.12</font>]** One paper has been accepted by ISSTA'25.
@@ -26,14 +27,14 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 ### Preprints:
 
-- **[<font color="#0000FF">arxiv'24</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, How to Understand Whole Software Repository?. arXiv preprint arXiv:2406.01422. (**<font color="#FF0000">Alibaba Lingma Agent</font>**) [[paper](https://arxiv.org/pdf/2406.01422)]
-
 - **[<font color="#0000FF">arxiv'24</font>]** Yalan Lin, **Yingwei Ma**, Rongyu Cao, Binhua Li, Fei Huang, Xiaodong Gu, Yongbin Li, LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues. arXiv preprint arXiv:2411.13941. [[paper](https://arxiv.org/pdf/2411.13941)]
 
 - **[<font color="#0000FF">arxiv'24</font>]** Zhenyu Pan, Rongyu Cao, Yongchang Cao, **Yingwei Ma**, Binhua Li, Fei Huang, Han Liu, Yongbin Li, Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?. arXiv preprint arXiv:2410.01353. [[paper](https://arxiv.org/pdf/2410.01353)]
 
 
 ### Peer-Reviewed: 
+
+- **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. Accepted as an Industry Full Paper [[paper](https://arxiv.org/pdf/2406.01422)]
 
 - **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
 
