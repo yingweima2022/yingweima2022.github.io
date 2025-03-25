@@ -27,6 +27,9 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 ### Preprints:
 
+- **[<font color="#0000FF">arxiv'25</font>]** Bo Yang, Qingping Yang, **Yingwei Ma**, Runtao Liu, UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts. arXiv preprint arXiv:2411.07240. [[paper](https://arxiv.org/pdf/2411.07240)]
+
+
 - **[<font color="#0000FF">arxiv'24</font>]** Yalan Lin, **Yingwei Ma**, Rongyu Cao, Binhua Li, Fei Huang, Xiaodong Gu, Yongbin Li, LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues. arXiv preprint arXiv:2411.13941. [[paper](https://arxiv.org/pdf/2411.13941)]
 
 - **[<font color="#0000FF">arxiv'24</font>]** Zhenyu Pan, Rongyu Cao, Yongchang Cao, **Yingwei Ma**, Binhua Li, Fei Huang, Han Liu, Yongbin Li, Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?. arXiv preprint arXiv:2410.01353. [[paper](https://arxiv.org/pdf/2410.01353)]
