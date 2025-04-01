@@ -27,6 +27,8 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 ### Preprints:
 
+- **[<font color="#0000FF">arxiv'25</font>]** **Yingwei Ma**, Binhua Li, Yihong Dong, Xue Jiang, Rongyu Cao, Fei Huang, Yongbin Li, Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute. arXiv preprint arXiv:2503.23803. [[paper](https://arxiv.org/abs/2503.23803)]
+
 - **[<font color="#0000FF">arxiv'25</font>]** Bo Yang, Qingping Yang, **Yingwei Ma**, Runtao Liu, UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts. arXiv preprint arXiv:2411.07240. [[paper](https://arxiv.org/pdf/2411.07240)]
 
 
