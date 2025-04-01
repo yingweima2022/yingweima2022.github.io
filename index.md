@@ -10,6 +10,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
 
 # News
+- **[<font color="#FF0000">2025.03</font>]** One patent on code processing method has been published.
 - **[<font color="#FF0000">2025.03</font>]** **Alibaba LingmaAgent** has been accepted by FSE'25 Industry.
 - **[<font color="#FF0000">2025.01</font>]** One paper has been accepted by ICLR'25.
 - **[<font color="#FF0000">2025.01</font>]** Two patents on code processing and intelligent software development methods have been published.
@@ -58,6 +59,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 - **[<font color="#0000FF">SANER'23</font>]** Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) Macao SAR, China, March 21st-24th, 2023.[[paper](https://ieeexplore.ieee.org/abstract/document/10123590/)]
 
 # Patents
+- [2025] Yingwei Ma. 异常数据复现方法以及异常代码复现方法 (Abnormal data reproduction method and abnormal code reproduction method). Patent Application No. CN119166410B, Alibaba (China) Co., Ltd. (Application Date: 2025.02.14, Publication Date: 2025.02.14)
 - [2024] Yingwei Ma. 代码处理方法以及代码修复测试方法 (Code Processing Method and Code Repair Testing Method). Patent Application No. CN118760612A, Alibaba (China) Co., Ltd. (Application Date: 2024.09.04, Publication Date: 2024.10.11)
 - [2024] Yingwei Ma. 代码处理模型训练、代码任务处理以及代码开发方法 (Code Processing Model Training, Code Task Processing and Code Development Method). Patent Application No. CN118860900A, Alibaba (China) Co., Ltd. (Application Date: 2024.09.19, Publication Date: 2024.10.29)
 
