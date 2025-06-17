@@ -10,6 +10,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
 
 # News
+- **[<font color="#FF0000">2025.06</font>]** Introducing **Kimi-Dev**: A Strong and Open-source Coding LLM for Issue Resolution.[[Github](https://github.com/MoonshotAI/Kimi-Dev?tab=readme-ov-file)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-Dev-72B)]
 - **[<font color="#FF0000">2025.03</font>]** One patent on code processing method has been published.
 - **[<font color="#FF0000">2025.03</font>]** **Alibaba LingmaAgent** has been accepted by FSE'25 Industry.
 - **[<font color="#FF0000">2025.01</font>]** One paper has been accepted by ICLR'25.
