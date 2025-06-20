@@ -10,7 +10,9 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 <img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
 
 # News
+
 - **[<font color="#FF0000">2025.06</font>]** Introducing **Kimi-Dev**: A Strong and Open-source Coding LLM for Issue Resolution.[[Github](https://github.com/MoonshotAI/Kimi-Dev?tab=readme-ov-file)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-Dev-72B)]
+- **[<font color="#FF0000">2025.03</font>]** I won the **<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**.
 - **[<font color="#FF0000">2025.03</font>]** One patent on code processing method has been published.
 - **[<font color="#FF0000">2025.03</font>]** **Alibaba LingmaAgent** has been accepted by FSE'25 Industry.
 - **[<font color="#FF0000">2025.01</font>]** One paper has been accepted by ICLR'25.
@@ -45,7 +47,7 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 - **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
 
-- **[<font color="#0000FF">ISSTA'25</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25) [[paper](https://arxiv.org/pdf/2411.00622)]
+- **[<font color="#0000FF">ISSTA'25</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**) [[paper](https://arxiv.org/pdf/2411.00622)]
 
 - **[<font color="#0000FF">NeurIPS'24</font>]** Yue Liu, Shihao Zhu, Jun Xia, **Yingwei Ma**, Jian Ma, Wenliang Zhong, Xinwang Liu, Guannan Zhang, Kejun Zhang, End-to-end learnable clustering for intent learning in recommendation. The 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24) [[paper](https://arxiv.org/pdf/2401.05975)]
 
