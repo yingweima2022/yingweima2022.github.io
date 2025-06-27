@@ -54,6 +54,9 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 - **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
 
+- **[<font color="#0000FF">ICML'25</font>]** Yue Liu, Xiaoxin He,  Miao Xiong, **Yingwei Ma**, Jiaheng Zhang, Bryan Hooi, FLIPATTACK: JAILBREAK LLMS VIA FLIPPING. (ICML-25) [[paper](https://openreview.net/pdf?id=H7xIfLDIoA)]
+
+
 - **[<font color="#0000FF">NeurIPS'24</font>]** Yue Liu, Shihao Zhu, Jun Xia, **Yingwei Ma**, Jian Ma, Wenliang Zhong, Xinwang Liu, Guannan Zhang, Kejun Zhang, End-to-end learnable clustering for intent learning in recommendation. The 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24) [[paper](https://arxiv.org/pdf/2401.05975)]
 
 
