@@ -56,10 +56,6 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 - **[<font color="#0000FF">NeurIPS'24</font>]** Yue Liu, Shihao Zhu, Jun Xia, **Yingwei Ma**, Jian Ma, Wenliang Zhong, Xinwang Liu, Guannan Zhang, Kejun Zhang, End-to-end learnable clustering for intent learning in recommendation. The 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24) [[paper](https://arxiv.org/pdf/2401.05975)]
 
-- **[<font color="#0000FF">Internetware'23</font>]** Xiangbing Huang(\*), **Yingwei Ma(\*)**, Haifang Zhou, Zhijie Jiang, Yuanliang Zhang, Teng Wang, Shanshan Li, Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. 14th Asia-Pacific Symposium on Internetware (Internetware), Hang Zhou, China, August 4st-6th, 2023. (**Co-first author, Y.Ma is the Collaborative Advisor**) [[paper](https://github.com/yingweima2022/yingweima2022.github.io/blob/main/ref/paper/Interware__MulCode.pdf)]
-
-
-- **[<font color="#0000FF">SANER'23</font>]** Zhijie Jiang, Haixu Xiong, **Yingwei Ma**, Yao Zhang, Yan Ding, Yun Xiong and Shanshan Li: *Code Comments Generation Based on Heterogeneous Graph Structure*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) Macao SAR, China, March 21st-24th, 2023.[[paper](https://ieeexplore.ieee.org/abstract/document/10123590/)]
 
 # Patents
 - [2025] Yingwei Ma. 异常数据复现方法以及异常代码复现方法 (Abnormal data reproduction method and abnormal code reproduction method). Patent Application No. CN119166410B, Alibaba (China) Co., Ltd. (Application Date: 2025.02.14, Publication Date: 2025.02.14)
