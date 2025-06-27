@@ -43,15 +43,13 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 - **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, **Alibaba LingmaAgent**: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. FSE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/pdf/2406.01422)]
 
 
-- **[<font color="#0000FF">ISSTA'25 ![distinguished_paper](https://github.com/user-attachments/assets/df4494e2-a630-4f4f-be3c-c8d5f22eaec8)
-</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**) [[paper](https://arxiv.org/pdf/2411.00622)]
+- **[<font color="#0000FF">ISSTA'25 ![distinguished_paper](https://github.com/user-attachments/assets/a8230b8f-1047-4f7c-bc19-76bd1db28c9a)</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**) [[paper](https://arxiv.org/pdf/2411.00622)]
 
 - **[<font color="#0000FF">ICLR'24 (Spotlight)</font>]** **Yingwei Ma**, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li, At Which Training Stage Does Code Data Help LLMs Reasoning?. The 12th International Conference on Learning Representations (ICLR-24)
 , Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Spotlight, top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
 
 
-- **[<font color="#0000FF">SANER'23 ![distinguished_paper](https://github.com/user-attachments/assets/422300d1-83d3-46ee-ba30-1b254685faec)
-</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
+- **[<font color="#0000FF">SANER'23 ![distinguished_paper](https://github.com/user-attachments/assets/4287a489-8cbe-4573-9ebd-02f1990a72cf))</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
 
 
 - **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
