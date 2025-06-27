@@ -4,10 +4,7 @@ layout: default
 
 # About Me
 
-Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Group. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
-
-<img src="https://github.com/user-attachments/assets/fd3558c7-5953-404b-8d89-59070a6a12b0" alt="tongyi" width="50px"/>
-<img src="https://github.com/user-attachments/assets/58c63a0b-7577-47ad-9fb8-74f2704687f5" alt="alibaba" width="150px"/>
+Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
 
 # News
 
@@ -43,18 +40,21 @@ Yingwei Ma (马迎伟) is a Research Scientist at Tongyi Laboratory, Alibaba Gro
 
 ### Peer-Reviewed: 
 
-- **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, **Alibaba LingmaAgent**: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/pdf/2406.01422)]
+- **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, **Alibaba LingmaAgent**: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. FSE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/pdf/2406.01422)]
 
-- **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
 
-- **[<font color="#0000FF">ISSTA'25</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**) [[paper](https://arxiv.org/pdf/2411.00622)]
-
-- **[<font color="#0000FF">NeurIPS'24</font>]** Yue Liu, Shihao Zhu, Jun Xia, **Yingwei Ma**, Jian Ma, Wenliang Zhong, Xinwang Liu, Guannan Zhang, Kejun Zhang, End-to-end learnable clustering for intent learning in recommendation. The 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24) [[paper](https://arxiv.org/pdf/2401.05975)]
+- **[<font color="#0000FF">ISSTA'25</font>]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**) [[paper](https://arxiv.org/pdf/2411.00622)]
 
 - **[<font color="#0000FF">ICLR'24</font>]** **Yingwei Ma**, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li, At Which Training Stage Does Code Data Help LLMs Reasoning?. The 12th International Conference on Learning Representations (ICLR-24)
 , Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Spotlight, top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
 
+
 - **[<font color="#0000FF">SANER'23</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
+
+
+- **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
+
+- **[<font color="#0000FF">NeurIPS'24</font>]** Yue Liu, Shihao Zhu, Jun Xia, **Yingwei Ma**, Jian Ma, Wenliang Zhong, Xinwang Liu, Guannan Zhang, Kejun Zhang, End-to-end learnable clustering for intent learning in recommendation. The 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24) [[paper](https://arxiv.org/pdf/2401.05975)]
 
 - **[<font color="#0000FF">Internetware'23</font>]** Xiangbing Huang(\*), **Yingwei Ma(\*)**, Haifang Zhou, Zhijie Jiang, Yuanliang Zhang, Teng Wang, Shanshan Li, Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning. 14th Asia-Pacific Symposium on Internetware (Internetware), Hang Zhou, China, August 4st-6th, 2023. (**Co-first author, Y.Ma is the Collaborative Advisor**) [[paper](https://github.com/yingweima2022/yingweima2022.github.io/blob/main/ref/paper/Interware__MulCode.pdf)]
 
