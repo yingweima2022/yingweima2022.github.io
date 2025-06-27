@@ -49,7 +49,7 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 , Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Spotlight, top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
 
 
-- **[<font color="#0000FF">SANER'23 ![distinguished_paper](https://github.com/user-attachments/assets/4287a489-8cbe-4573-9ebd-02f1990a72cf))</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
+- **[<font color="#0000FF">SANER'23 ![distinguished_paper](https://github.com/user-attachments/assets/4287a489-8cbe-4573-9ebd-02f1990a72cf)</font>]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
 
 
 - **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
