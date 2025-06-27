@@ -1,19 +1,21 @@
-/* 设置网站整体布局 */
-.site {
-  width: 80% !important;
-  max-width: 1200px; /* 设置一个最大宽度，防止在超大屏幕上过宽 */
-  margin: 0 auto;
-  padding: 0;
+/* 给正文包裹层一个最大宽度，并让它居中 */
+/* 这里用 .wrapper；如果你的主题叫别的名字，就换成那个名字 */
+.wrapper {
+  max-width: 900px;      /* 看着舒服的正文宽度；800‑1000px 都行 */
+  margin: 0 auto;        /* 左右自动外边距 → 居中 */
+  padding: 0 1.5rem;     /* 防止文字贴边，可按喜好调 */
+  box-sizing: border-box;
 }
 
-.page-content {
-  width: 80% !important;
-  max-width: 1200px;
+/* 如果你的导航栏、页脚也想留白，再加上下面两行就行
+.site-header, .site-footer {
+  max-width: 900px;
   margin: 0 auto;
+  padding: 0 1.5rem;
 }
+*/
 
-
-/* 图片设置保持不变 */
+/* 图片尺寸规则保持不变 */
 img[src="/assets/img/myw1.jpg"] {
   width: 300px;
   height: auto;
