@@ -76,6 +76,8 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
   Supervisor: Prof. Shanshan Li
 
+  National Scholarship.
+
 
 - **[2017.9-2021.6]** 
 
@@ -83,8 +85,11 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
   Supervisor: Prof. Fengda Zhao
 
+  National Scholarship.
+
 
 # Academic Service
+- Program committee for AAAI'25
 - Program committee for EXPRESS@ISSTA'25
 - Reviewer for ICML'25, ICLR'25, NeurIPS'25
 - Reviewer for NeurIPS'24, ICLR'24
