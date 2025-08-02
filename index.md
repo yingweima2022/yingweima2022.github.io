@@ -76,7 +76,7 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
   Supervisor: Prof. Shanshan Li
 
-  National Scholarship.
+  National Scholarship (国家奖学金).
 
 
 - **[2017.9-2021.6]** 
@@ -85,8 +85,13 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
   Supervisor: Prof. Fengda Zhao
 
-  National Scholarship.
+  National Scholarship (国家奖学金).
 
+- **[2014.9-2017.6]** 
+
+  High school in <a href="https://baike.baidu.com/item/%E6%B2%B3%E5%8C%97%E6%B6%BF%E5%B7%9E%E4%B8%AD%E5%AD%A6/5507970">Zhuozhou Middle School, Hebei Province</a>.
+
+  Provincial First Prize in the Mathematics Olympiad (数学奥林匹克竞赛省一等奖).
 
 # Academic Service
 - Program committee for AAAI'25
