@@ -38,7 +38,9 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 - **[<font color="#0000FF">arxiv'24</font>]** Zhenyu Pan, Rongyu Cao, Yongchang Cao, **Yingwei Ma**, Binhua Li, Fei Huang, Han Liu, Yongbin Li, Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?. arXiv preprint arXiv:2410.01353. [[paper](https://arxiv.org/pdf/2410.01353)]
 
 
-### Peer-Reviewed: 
+### Peer-Reviewed And Technical Report: 
+
+- **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, contributed to Coding Agentic Capabilities for **Kimi K2**, Kimi K2: Open Agentic Intelligence. arXiv preprint arXiv:2507.20534. [[paper](https://arxiv.org/pdf/2507.20534)]
 
 - **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, **Alibaba LingmaAgent**: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. FSE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/pdf/2406.01422)]
 
