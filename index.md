@@ -7,6 +7,7 @@ layout: default
 Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
 
 # News
+- **[<font color="#FF0000">2025.08</font>]** Two paper has been accepted by EMNLP'25 Findings.
 - **[<font color="#FF0000">2025.07</font>]** Introducing **Kimi-K2**: A Open-source LLM for Agentic Intelligence. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai)] [[Paper](https://arxiv.org/pdf/2507.20534)]
 - **[<font color="#FF0000">2025.06</font>]** Introducing **Kimi-Dev**: A Strong and Open-source Coding LLM for Issue Resolution. [[Github](https://github.com/MoonshotAI/Kimi-Dev?tab=readme-ov-file)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-Dev-72B)]
 - **[<font color="#FF0000">2025.06</font>]** I won the **<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**.
@@ -29,9 +30,6 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 ### Preprints:
 
 - **[<font color="#0000FF">arxiv'25</font>]** **Yingwei Ma**, Binhua Li, Yihong Dong, Xue Jiang, Rongyu Cao, Fei Huang, Yongbin Li, Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute. arXiv preprint arXiv:2503.23803. [[paper](https://arxiv.org/abs/2503.23803)]
-
-- **[<font color="#0000FF">arxiv'25</font>]** Bo Yang, Qingping Yang, **Yingwei Ma**, Runtao Liu, UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts. arXiv preprint arXiv:2411.07240. [[paper](https://arxiv.org/pdf/2411.07240)]
-
 
 - **[<font color="#0000FF">arxiv'24</font>]** Yalan Lin, **Yingwei Ma**, Rongyu Cao, Binhua Li, Fei Huang, Xiaodong Gu, Yongbin Li, LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues. arXiv preprint arXiv:2411.13941. [[paper](https://arxiv.org/pdf/2411.13941)]
 
@@ -58,6 +56,7 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 - **[<font color="#0000FF">ICML'25</font>]** Yue Liu, Xiaoxin He,  Miao Xiong, **Yingwei Ma**, Jiaheng Zhang, Bryan Hooi, FLIPATTACK: JAILBREAK LLMS VIA FLIPPING. (ICML-25) [[paper](https://openreview.net/pdf?id=H7xIfLDIoA)]
 
+- **[<font color="#0000FF">EMNLP'25 Findings</font>]** Bo Yang, Qingping Yang, **Yingwei Ma**, Runtao Liu, UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts. arXiv preprint arXiv:2411.07240. [[paper](https://arxiv.org/pdf/2411.07240)]
 
 - **[<font color="#0000FF">NeurIPS'24</font>]** Yue Liu, Shihao Zhu, Jun Xia, **Yingwei Ma**, Jian Ma, Wenliang Zhong, Xinwang Liu, Guannan Zhang, Kejun Zhang, End-to-end learnable clustering for intent learning in recommendation. The 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24) [[paper](https://arxiv.org/pdf/2401.05975)]
 
