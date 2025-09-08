@@ -69,7 +69,12 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 # Experience
 
-- **[2024.2-2025.05]** 
+- **[2024.05-]**
+
+  Technical Staff in <a href="https://www.moonshot.ai/">RL team</a>, Moonshot AI. 
+
+
+- **[2024.02-2025.05]** 
 
   Researcher in <a href="https://www.tongyi.com/">TONGYI Lab</a> ![GitHub](/assets/img/tongyi.jpg){:width="20"}, Alibaba Cloud. 
 
