@@ -7,6 +7,7 @@ layout: default
 Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
 
 # News
+- **[<font color="#FF0000">2025.09</font>]** One paper has been accepted by ASE'25 Industry.
 - **[<font color="#FF0000">2025.09</font>]** Introducing **Kimi-K2-0905**: Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905)]
 - **[<font color="#FF0000">2025.08</font>]** Two papers have been accepted by EMNLP'25 Findings.
 - **[<font color="#FF0000">2025.07</font>]** Introducing **Kimi-K2**: A Open-source LLM for Agentic Intelligence. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai)] [[Paper](https://arxiv.org/pdf/2507.20534)]
@@ -30,8 +31,6 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 ### Preprints:
 
-- **[<font color="#0000FF">arxiv'25</font>]** **Yingwei Ma**, Binhua Li, Yihong Dong, Xue Jiang, Rongyu Cao, Fei Huang, Yongbin Li, Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute. arXiv preprint arXiv:2503.23803. [[paper](https://arxiv.org/abs/2503.23803)]
-
 - **[<font color="#0000FF">arxiv'24</font>]** Yalan Lin, **Yingwei Ma**, Rongyu Cao, Binhua Li, Fei Huang, Xiaodong Gu, Yongbin Li, LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues. arXiv preprint arXiv:2411.13941. [[paper](https://arxiv.org/pdf/2411.13941)]
 
 - **[<font color="#0000FF">arxiv'24</font>]** Zhenyu Pan, Rongyu Cao, Yongchang Cao, **Yingwei Ma**, Binhua Li, Fei Huang, Han Liu, Yongbin Li, Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?. arXiv preprint arXiv:2410.01353. [[paper](https://arxiv.org/pdf/2410.01353)]
@@ -41,16 +40,17 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 - **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, contributed to Coding Agentic Capabilities for Kimi K2, **Kimi K2: Open Agentic Intelligence**. arXiv preprint arXiv:2507.20534. [[paper](https://arxiv.org/pdf/2507.20534)]
 
+- **[<font color="#0000FF">ASE'25</font>]** **Yingwei Ma**, Binhua Li, Yihong Dong, Xue Jiang, Rongyu Cao, Fei Huang, Yongbin Li, Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute. arXiv preprint arXiv:2503.23803. ASE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/abs/2503.23803)]
+
+- **[<font color="#0000FF">ISSTA'25</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>, The Best Award At The Conference**) [[paper](https://arxiv.org/pdf/2411.00622)][[link](https://mp.weixin.qq.com/s/Qq2pb2PaHGwoDT50Rs4_bw)]
+
 - **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, **Alibaba LingmaAgent**: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. FSE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/pdf/2406.01422)]
-
-
-- **[<font color="#0000FF">ISSTA'25</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>, the best award at the conference**) [[paper](https://arxiv.org/pdf/2411.00622)][[link](https://mp.weixin.qq.com/s/Qq2pb2PaHGwoDT50Rs4_bw)]
 
 - **[<font color="#0000FF">ICLR'24 Spotlight</font>]** **Yingwei Ma**, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li, At Which Training Stage Does Code Data Help LLMs Reasoning?. The 12th International Conference on Learning Representations (ICLR-24)
 , Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Spotlight, top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
 
 
-- **[<font color="#0000FF">SANER'23</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>, the best award at the conference**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
+- **[<font color="#0000FF">SANER'23</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>, The Best Award At The Conference**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
 
 
 - **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
