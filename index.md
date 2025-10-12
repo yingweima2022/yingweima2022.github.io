@@ -71,7 +71,7 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 - **[2025.05-]**
 
-  Technical Staff in <a href="https://www.moonshot.ai/">RL team</a>, Moonshot AI. 
+  Technical Staff in <a href="https://www.moonshot.ai/">RL team</a> ![GitHub](/assets/img/moonshot.jpeg){:width="20"}, Moonshot AI. 
 
 
 - **[2024.02-2025.05]** 
