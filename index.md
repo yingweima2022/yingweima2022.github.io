@@ -7,7 +7,7 @@ layout: default
 Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
 
 # News
-- **[<font color="#FF0000">2025.09</font>]** One paper has been accepted by ASE'25 Industry.
+- **[<font color="#FF0000">2025.09</font>]** One paper has been accepted by ASE'25.
 - **[<font color="#FF0000">2025.09</font>]** Introducing **Kimi-K2-0905**: Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905)]
 - **[<font color="#FF0000">2025.08</font>]** Two papers have been accepted by EMNLP'25 Findings.
 - **[<font color="#FF0000">2025.07</font>]** Introducing **Kimi-K2**: A Open-source LLM for Agentic Intelligence. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai)] [[Paper](https://arxiv.org/pdf/2507.20534)]
@@ -42,7 +42,7 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 - **[<font color="#0000FF">ASE'25</font>]** **Yingwei Ma**, Binhua Li, Yihong Dong, Xue Jiang, Rongyu Cao, Fei Huang, Yongbin Li, Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute. arXiv preprint arXiv:2503.23803. ASE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/abs/2503.23803)]
 
-- **[<font color="#0000FF">ISSTA'25</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>, The Best Award At The Conference**) [[paper](https://arxiv.org/pdf/2411.00622)][[link](https://mp.weixin.qq.com/s/Qq2pb2PaHGwoDT50Rs4_bw)]
+- **[<font color="#0000FF">ISSTA'25</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>, The Best Award At The Conference**) [[paper](https://arxiv.org/pdf/2411.00622)] [[link](https://mp.weixin.qq.com/s/Qq2pb2PaHGwoDT50Rs4_bw)]
 
 - **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, **Alibaba LingmaAgent**: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. FSE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/pdf/2406.01422)]
 
