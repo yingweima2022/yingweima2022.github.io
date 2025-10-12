@@ -14,7 +14,7 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 - **[<font color="#FF0000">2025.06</font>]** Introducing **Kimi-Dev**: A Strong and Open-source Coding LLM for Issue Resolution. [[Github](https://github.com/MoonshotAI/Kimi-Dev?tab=readme-ov-file)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-Dev-72B)]
 - **[<font color="#FF0000">2025.06</font>]** I won the **<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**.
 - **[<font color="#FF0000">2025.03</font>]** One patent on code processing method has been published.
-- **[<font color="#FF0000">2025.03</font>]** **Alibaba LingmaAgent** has been accepted by FSE'25 Industry.
+- **[<font color="#FF0000">2025.03</font>]** **Alibaba LingmaAgent** has been accepted by FSE'25.
 - **[<font color="#FF0000">2025.01</font>]** One paper has been accepted by ICLR'25.
 - **[<font color="#FF0000">2025.01</font>]** Two patents on code processing and intelligent software development methods have been published.
 - **[<font color="#FF0000">2024.12</font>]** One paper has been accepted by ISSTA'25.
