@@ -7,6 +7,7 @@ layout: default
 Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
 
 # News
+- **[<font color="#FF0000">2025.11</font>]** Introducing **Kimi-K2-Thinking**: Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. [[Github](https://moonshotai.github.io/Kimi-K2/thinking.html)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Thinking)]
 - **[<font color="#FF0000">2025.09</font>]** One paper has been accepted by ASE'25.
 - **[<font color="#FF0000">2025.09</font>]** Introducing **Kimi-K2-0905**: Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905)]
 - **[<font color="#FF0000">2025.08</font>]** Two papers have been accepted by EMNLP'25 Findings.
