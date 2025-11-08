@@ -7,6 +7,7 @@ layout: default
 Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His research focuses on Software Engineering and Large Language Model. He publishes papers and serves as a program committee for various leading conferences such as ICML/ICLR/NeurIPS. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end software engineering problems.
 
 # News
+- **[<font color="#FF0000">2025.11</font>]** Two papers have been accepted by AAAI'26.
 - **[<font color="#FF0000">2025.11</font>]** Introducing **Kimi-K2-Thinking**: Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. [[Github](https://moonshotai.github.io/Kimi-K2/thinking.html)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Thinking)]
 - **[<font color="#FF0000">2025.09</font>]** One paper has been accepted by ASE'25.
 - **[<font color="#FF0000">2025.09</font>]** Introducing **Kimi-K2-0905**: Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905)]
@@ -32,6 +33,8 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 ### Preprints:
 
+- **[<font color="#0000FF">arxiv'25</font>]** Yihong Dong, Xue Jiang, Yongding Tao, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, **Yingwei Ma**, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li, RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning. arXiv preprint arXiv:2508.00222. [[paper](https://arxiv.org/abs/2508.00222)]
+
 - **[<font color="#0000FF">arxiv'24</font>]** Yalan Lin, **Yingwei Ma**, Rongyu Cao, Binhua Li, Fei Huang, Xiaodong Gu, Yongbin Li, LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues. arXiv preprint arXiv:2411.13941. [[paper](https://arxiv.org/pdf/2411.13941)]
 
 - **[<font color="#0000FF">arxiv'24</font>]** Zhenyu Pan, Rongyu Cao, Yongchang Cao, **Yingwei Ma**, Binhua Li, Fei Huang, Han Liu, Yongbin Li, Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?. arXiv preprint arXiv:2410.01353. [[paper](https://arxiv.org/pdf/2410.01353)]
@@ -53,6 +56,9 @@ Yingwei Ma (马迎伟) is a Technial Staff at RL Team @ Moonshot AI. His researc
 
 - **[<font color="#0000FF">SANER'23</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>, The Best Award At The Conference**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
 
+- **[<font color="#0000FF">AAAI'26</font>]** Xue Jiang, Yihong Dong, Zheng Fang, **Yingwei Ma**, Tangxinyu Wang, Rongyu Cao, Binhua Li, Zhi Jin, Wenpin Jiao, Yongbin Li, Ge Li, Large Language Model Unlearning for Source Code. The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) [[paper](https://www.arxiv.org/abs/2506.17125)]
+
+- - **[<font color="#0000FF">AAAI'26</font>]** Zhenhao Zhu, Yue Liu, **Yingwei Ma**, Hongcheng Gao, Nuo Chen, Yanpei Guo, Wenjie Qu, Huiying Xu, Xinzhong Zhu, Jiaheng Zhang, ExtendAttack: Attacking Servers of LRMs via Extending Reasoning. The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) [[paper](https://arxiv.org/abs/2506.13737)]
 
 - **[<font color="#0000FF">ICLR'25</font>]** Jie Cheng, Ruixi Qiao, **Yingwei Ma**, Gang Xiong, Qinghai Miao, Binhua Li, Yongbin Li, Yisheng Lv, Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining. The Thirteenth International Conference on Learning Representations (ICLR-25) [[paper](https://arxiv.org/pdf/2410.00564?)]
 
