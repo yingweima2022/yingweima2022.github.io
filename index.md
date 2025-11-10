@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot AI. His research lies at the intersection of foundation model and software engineering. He has published in ML/SE venues and served as a reviewer / program committee member for leading conferences such as ICML, ICLR, NeurIPS and AAAI. He had planned to pursue his PhD at HKUST under the supervision of Prof. [[S.C. CHEUNG](https://www.cse.ust.hk/~scc/)], but decided to postpone this plan as he got [[AGI-pilled](https://www.kimi.com/share/d10r992av1fdtpp6ikag)]. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end SE/Research problems. 
+Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot AI. His research lies at the intersection of foundation model and software engineering. He has published in ML/SE venues and served as a reviewer / program committee member for leading conferences such as ICML, ICLR, NeurIPS and AAAI. He had planned to pursue his PhD at HKUST under the supervision of Prof. [S.C. CHEUNG](https://www.cse.ust.hk/~scc/), but decided to postpone this plan as he got [AGI-pilled](https://www.kimi.com/share/d10r992av1fdtpp6ikag). Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end SE/Research problems. 
 
 # News
 - **[<font color="#FF0000">2025.11</font>]** Two papers have been accepted by AAAI'26.
