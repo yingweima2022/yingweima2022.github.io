@@ -50,8 +50,8 @@ Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot 
 
 - **[<font color="#0000FF">FSE'25</font>]** **Yingwei Ma**, Qingping Yang, Rongyu Cao, Binhua Li, Fei Huang, Yongbin Li, **Alibaba LingmaAgent**: Improving Automated Issue Resolution via Comprehensive Repository Exploration. arXiv preprint arXiv:2406.01422. FSE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/pdf/2406.01422)]
 
-- **[<font color="#0000FF">ICLR'24 Spotlight</font>]** **Yingwei Ma**, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li, At Which Training Stage Does Code Data Help LLMs Reasoning?. The 12th International Conference on Learning Representations (ICLR-24)
-, Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
+- **[<font color="#0000FF">ICLR'24</font>]** **Yingwei Ma**, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li, At Which Training Stage Does Code Data Help LLMs Reasoning?. The 12th International Conference on Learning Representations (ICLR-24)
+, Vienna Austria, May 7th-11th, 2024. (**<font color="#FF0000">Spotlight, Top 5%</font>**) [[paper](https://arxiv.org/pdf/2309.16298)]
 
 - **[<font color="#0000FF">SANER'23</font>![GitHub](/assets/img/distinguished_paper.jpg){:width="20"}]** **Yingwei Ma**, Yue Yu, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong and Xiangke Liao, *MulCS: Towards a Unified Code Representation for Multilingual Code Search*. 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao SAR, China, March 21st-24th, 2023.(**<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>, The Best Award At The Conference**) [[paper](https://yuyue.github.io/res/paper/MulCS-saner2023.pdf)]
 
