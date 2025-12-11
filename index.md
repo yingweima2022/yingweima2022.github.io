@@ -33,6 +33,9 @@ Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot 
 
 ### Preprints:
 
+- **[<font color="#0000FF">arxiv'25</font>]** Kelin Fu, Tianyu Liu, Zeyu Shang, **Yingwei Ma**, Jian Yang, Jiaheng Liu, Kaigui Bian, Multi-Docker-Eval: A 'Shovel of the Gold Rush' Benchmark on
+Automatic Environment Building for Software Engineering. arXiv preprint arXiv:2512.06915v2. [[paper](https://arxiv.org/abs/2512.06915v2)]
+
 - **[<font color="#0000FF">arxiv'25</font>]** Yihong Dong, Xue Jiang, Yongding Tao, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, **Yingwei Ma**, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li, RL-PLUS: Countering Capability Boundary Collapse of LLMs in Reinforcement Learning. arXiv preprint arXiv:2508.00222. [[paper](https://arxiv.org/abs/2508.00222)]
 
 - **[<font color="#0000FF">arxiv'24</font>]** Yalan Lin, **Yingwei Ma**, Rongyu Cao, Binhua Li, Fei Huang, Xiaodong Gu, Yongbin Li, LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues. arXiv preprint arXiv:2411.13941. [[paper](https://arxiv.org/pdf/2411.13941)]
