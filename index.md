@@ -93,7 +93,7 @@ Automatic Environment Building for Software Engineering. arXiv preprint arXiv:25
 
   M.E. in <a href="https://english.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>. 
 
-  Supervisor: Prof. Shanshan Li
+  Supervisor: Prof. Liao, Xiangke and Shanshan Li
 
   National Scholarship (国家奖学金).
 
