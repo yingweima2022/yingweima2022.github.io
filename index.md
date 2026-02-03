@@ -29,6 +29,31 @@ Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot 
 - **[<font color="#FF0000">2023.03</font>]** Two papers have been accepted by SANER'23.
 - **[<font color="#FF0000">2022.09</font>]** I won the Outstanding Students of the School of Computer Science, National University of Defense Technology.
 
+<script>
+(() => {
+  const MAX = 10;
+  const list = document.querySelector('#news-list');
+  if (!list) return;
+
+  const items = Array.from(list.children).filter(el => el.tagName === 'LI');
+  if (items.length <= MAX) return;
+
+  const details = document.createElement('details');
+  details.style.marginTop = '0.5rem';
+
+  const summary = document.createElement('summary');
+  summary.textContent = `Show ${items.length - MAX} older news`;
+  summary.style.cursor = 'pointer';
+  details.appendChild(summary);
+
+  const folded = document.createElement(list.tagName.toLowerCase()); // ul or ol
+  items.slice(MAX).forEach(li => folded.appendChild(li)); // 移动第11条及以后
+  details.appendChild(folded);
+
+  list.insertAdjacentElement('afterend', details);
+})();
+</script>
+
 
 # Publication
 
