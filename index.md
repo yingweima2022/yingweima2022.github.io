@@ -46,7 +46,7 @@ Automatic Environment Building for Software Engineering. arXiv preprint arXiv:25
 
 ### Peer-Reviewed And Technical Report: 
 
-- **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, I did my best to enhance K2.5’s agentic coding capabilities across SWE, terminal usage, research scenarios, and security, **Kimi K2.5: Visual Agentic Intelligence**. arXiv preprint arXiv:2602.02276. [[paper](https://arxiv.org/pdf/2602.02276)]
+- **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, I did my best to enhance K2.5’s agentic capabilities across SWE, terminal usage, research scenarios, and security, **Kimi K2.5: Visual Agentic Intelligence**. arXiv preprint arXiv:2602.02276. [[paper](https://arxiv.org/pdf/2602.02276)]
 
 - **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, contributed to Coding Agentic Capabilities for Kimi K2, **Kimi K2: Open Agentic Intelligence**. arXiv preprint arXiv:2507.20534. [[paper](https://arxiv.org/pdf/2507.20534)]
 
