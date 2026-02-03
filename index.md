@@ -8,7 +8,7 @@ Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot 
 
 # News
 <ul id="news-list">
-  <li><b>[<font color="#FF0000">2025.11</font>]</b> Introducing <b>Kimi-K2.5</b>: It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms. <a href="https://www.kimi.com/blog/kimi-k2-5.html">[Github]</a> <a href="https://huggingface.co/moonshotai/Kimi-K2.5">[Huggingface]</a></li>
+  <li><b>[<font color="#FF0000">2026.01</font>]</b> Introducing <b>Kimi-K2.5</b>: It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms. <a href="https://www.kimi.com/blog/kimi-k2-5.html">[Github]</a> <a href="https://huggingface.co/moonshotai/Kimi-K2.5">[Huggingface]</a></li>
 
   <li><b>[<font color="#FF0000">2025.11</font>]</b> Two papers have been accepted by AAAI'26.</li>
 
