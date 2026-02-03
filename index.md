@@ -7,6 +7,7 @@ layout: default
 Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot AI. His research lies at the intersection of foundation model and software engineering. He had planned to pursue his PhD at HKUST under the supervision of Prof. [S.C. CHEUNG](https://www.cse.ust.hk/~scc/), but decided to postpone this plan as he got AGI-pilled. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end SE/Research problems. 
 
 # News
+- **[<font color="#FF0000">2025.11</font>]** Introducing **Kimi-K2.5**: It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms. [[Github](https://www.kimi.com/blog/kimi-k2-5.html)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2.5)]
 - **[<font color="#FF0000">2025.11</font>]** Two papers have been accepted by AAAI'26.
 - **[<font color="#FF0000">2025.11</font>]** Introducing **Kimi-K2-Thinking**: Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. [[Github](https://moonshotai.github.io/Kimi-K2/thinking.html)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Thinking)]
 - **[<font color="#FF0000">2025.09</font>]** One paper has been accepted by ASE'25.
@@ -44,6 +45,8 @@ Automatic Environment Building for Software Engineering. arXiv preprint arXiv:25
 
 
 ### Peer-Reviewed And Technical Report: 
+
+- **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, I did my best to enhance K2.5’s agentic coding capabilities across SWE, terminal usage, research scenarios, and security, **Kimi K2.5: Visual Agentic Intelligence**. arXiv preprint arXiv:2602.02276. [[paper](https://arxiv.org/pdf/2602.02276)]
 
 - **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, contributed to Coding Agentic Capabilities for Kimi K2, **Kimi K2: Open Agentic Intelligence**. arXiv preprint arXiv:2507.20534. [[paper](https://arxiv.org/pdf/2507.20534)]
 
