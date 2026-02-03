@@ -7,27 +7,49 @@ layout: default
 Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot AI. His research lies at the intersection of foundation model and software engineering. He had planned to pursue his PhD at HKUST under the supervision of Prof. [S.C. CHEUNG](https://www.cse.ust.hk/~scc/), but decided to postpone this plan as he got AGI-pilled. Currently, he focuses on using agent techniques (or Agentic LLM) to solve end-to-end SE/Research problems. 
 
 # News
-- **[<font color="#FF0000">2025.11</font>]** Introducing **Kimi-K2.5**: It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms. [[Github](https://www.kimi.com/blog/kimi-k2-5.html)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2.5)]
-- **[<font color="#FF0000">2025.11</font>]** Two papers have been accepted by AAAI'26.
-- **[<font color="#FF0000">2025.11</font>]** Introducing **Kimi-K2-Thinking**: Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. [[Github](https://moonshotai.github.io/Kimi-K2/thinking.html)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Thinking)]
-- **[<font color="#FF0000">2025.09</font>]** One paper has been accepted by ASE'25.
-- **[<font color="#FF0000">2025.09</font>]** Introducing **Kimi-K2-0905**: Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905)]
-- **[<font color="#FF0000">2025.08</font>]** Two papers have been accepted by EMNLP'25 Findings.
-- **[<font color="#FF0000">2025.07</font>]** Introducing **Kimi-K2**: A Open-source LLM for Agentic Intelligence. [[Github](https://github.com/MoonshotAI/Kimi-K2)] [[Huggingface](https://huggingface.co/moonshotai)] [[Paper](https://arxiv.org/pdf/2507.20534)]
-- **[<font color="#FF0000">2025.06</font>]** Introducing **Kimi-Dev**: A Strong and Open-source Coding LLM for Issue Resolution. [[Github](https://github.com/MoonshotAI/Kimi-Dev?tab=readme-ov-file)] [[Huggingface](https://huggingface.co/moonshotai/Kimi-Dev-72B)]
-- **[<font color="#FF0000">2025.06</font>]** I won the **<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>**.
-- **[<font color="#FF0000">2025.03</font>]** One patent on code processing method has been published.
-- **[<font color="#FF0000">2025.03</font>]** **Alibaba LingmaAgent** has been accepted by FSE'25.
-- **[<font color="#FF0000">2025.01</font>]** One paper has been accepted by ICLR'25.
-- **[<font color="#FF0000">2025.01</font>]** Two patents on code processing and intelligent software development methods have been published.
-- **[<font color="#FF0000">2024.12</font>]** One paper has been accepted by ISSTA'25.
-- **[<font color="#FF0000">2024.09</font>]** One paper has been accepted by NeurIPS'24.
-- **[<font color="#FF0000">2024.06</font>]** Alibaba Lingma Agent obtained SOTA on SWE-Bench Lite.
-- **[<font color="#FF0000">2024.01</font>]** One paper has been accepted by ICLR'24 **<font color="#FF0000">(Spotlight, top 5%)</font>**.
-- **[<font color="#FF0000">2023.05</font>]** One paper has been accepted by Internetware'23.
-- **[<font color="#FF0000">2023.03</font>]** I won the **<font color="#FF0000">IEEE TCSE Distinguished Paper Award</font>**.
-- **[<font color="#FF0000">2023.03</font>]** Two papers have been accepted by SANER'23.
-- **[<font color="#FF0000">2022.09</font>]** I won the Outstanding Students of the School of Computer Science, National University of Defense Technology.
+<ul id="news-list">
+  <li><b>[<font color="#FF0000">2025.11</font>]</b> Introducing <b>Kimi-K2.5</b>: It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms. <a href="https://www.kimi.com/blog/kimi-k2-5.html">[Github]</a> <a href="https://huggingface.co/moonshotai/Kimi-K2.5">[Huggingface]</a></li>
+
+  <li><b>[<font color="#FF0000">2025.11</font>]</b> Two papers have been accepted by AAAI'26.</li>
+
+  <li><b>[<font color="#FF0000">2025.11</font>]</b> Introducing <b>Kimi-K2-Thinking</b>: Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. <a href="https://moonshotai.github.io/Kimi-K2/thinking.html">[Github]</a> <a href="https://huggingface.co/moonshotai/Kimi-K2-Thinking">[Huggingface]</a></li>
+
+  <li><b>[<font color="#FF0000">2025.09</font>]</b> One paper has been accepted by ASE'25.</li>
+
+  <li><b>[<font color="#FF0000">2025.09</font>]</b> Introducing <b>Kimi-K2-0905</b>: Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks. <a href="https://github.com/MoonshotAI/Kimi-K2">[Github]</a> <a href="https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905">[Huggingface]</a></li>
+
+  <li><b>[<font color="#FF0000">2025.08</font>]</b> Two papers have been accepted by EMNLP'25 Findings.</li>
+
+  <li><b>[<font color="#FF0000">2025.07</font>]</b> Introducing <b>Kimi-K2</b>: A Open-source LLM for Agentic Intelligence. <a href="https://github.com/MoonshotAI/Kimi-K2">[Github]</a> <a href="https://huggingface.co/moonshotai">[Huggingface]</a> <a href="https://arxiv.org/pdf/2507.20534">[Paper]</a></li>
+
+  <li><b>[<font color="#FF0000">2025.06</font>]</b> Introducing <b>Kimi-Dev</b>: A Strong and Open-source Coding LLM for Issue Resolution. <a href="https://github.com/MoonshotAI/Kimi-Dev?tab=readme-ov-file">[Github]</a> <a href="https://huggingface.co/moonshotai/Kimi-Dev-72B">[Huggingface]</a></li>
+
+  <li><b>[<font color="#FF0000">2025.06</font>]</b> I won the <b><font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font></b>.</li>
+
+  <li><b>[<font color="#FF0000">2025.03</font>]</b> One patent on code processing method has been published.</li>
+
+  <li><b>[<font color="#FF0000">2025.03</font>]</b> <b>Alibaba LingmaAgent</b> has been accepted by FSE'25.</li>
+
+  <li><b>[<font color="#FF0000">2025.01</font>]</b> One paper has been accepted by ICLR'25.</li>
+
+  <li><b>[<font color="#FF0000">2025.01</font>]</b> Two patents on code processing and intelligent software development methods have been published.</li>
+
+  <li><b>[<font color="#FF0000">2024.12</font>]</b> One paper has been accepted by ISSTA'25.</li>
+
+  <li><b>[<font color="#FF0000">2024.09</font>]</b> One paper has been accepted by NeurIPS'24.</li>
+
+  <li><b>[<font color="#FF0000">2024.06</font>]</b> Alibaba Lingma Agent obtained SOTA on SWE-Bench Lite.</li>
+
+  <li><b>[<font color="#FF0000">2024.01</font>]</b> One paper has been accepted by ICLR'24 <b><font color="#FF0000">(Spotlight, top 5%)</font></b>.</li>
+
+  <li><b>[<font color="#FF0000">2023.05</font>]</b> One paper has been accepted by Internetware'23.</li>
+
+  <li><b>[<font color="#FF0000">2023.03</font>]</b> I won the <b><font color="#FF0000">IEEE TCSE Distinguished Paper Award</font></b>.</li>
+
+  <li><b>[<font color="#FF0000">2023.03</font>]</b> Two papers have been accepted by SANER'23.</li>
+
+  <li><b>[<font color="#FF0000">2022.09</font>]</b> I won the Outstanding Students of the School of Computer Science, National University of Defense Technology.</li>
+</ul>
 
 <script>
 (() => {
@@ -46,13 +68,14 @@ Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot 
   summary.style.cursor = 'pointer';
   details.appendChild(summary);
 
-  const folded = document.createElement(list.tagName.toLowerCase()); // ul or ol
-  items.slice(MAX).forEach(li => folded.appendChild(li)); // 移动第11条及以后
+  const folded = document.createElement('ul');
+  items.slice(MAX).forEach(li => folded.appendChild(li));
   details.appendChild(folded);
 
   list.insertAdjacentElement('afterend', details);
 })();
 </script>
+
 
 
 # Publication
