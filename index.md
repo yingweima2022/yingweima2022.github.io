@@ -82,7 +82,7 @@ Yingwei Ma (马迎伟) is a Member of Technical Staff on the RL team @ Moonshot 
 
 ### Preprints:
 
-- **[<font color="#0000FF">arxiv'26</font>]** Jiaran Zhang, Luck Ma, Yanhao Li, Fanqi Wan, Di Qi, Xu Zhao, Jieyi Hou, Zhe Xie, Mengqiang Ren, Xin Wu, Zhewei Huang, Liangyu Chen, **Yingwei Ma**, Qi Han, Xiangyu Zhang, Jian Yang, Jiaheng Liu, Kaigui Bian, DOCKSMITH: Scaling Reliable Coding Environments
+- **[<font color="#0000FF">arxiv'26</font>]** Jiaran Zhang, Luck Ma, Yanhao Li, Fanqi Wan, Di Qi, Xu Zhao, Jieyi Hou, Zhe Xie, Mengqiang Ren, Xin Wu, Zhewei Huang, Liangyu Chen, **Yingwei Ma**, Qi Han, Xiangyu Zhang, DOCKSMITH: Scaling Reliable Coding Environments
 via an Agentic Docker Builder. arXiv preprint arXiv:2602.00592. [[paper](https://arxiv.org/pdf/2602.00592)] [[dataset](https://huggingface.co/collections/8sj7df9k8m5x8/docksmith)]
 
 - **[<font color="#0000FF">arxiv'25</font>]** Kelin Fu, Tianyu Liu, Zeyu Shang, **Yingwei Ma**, Jian Yang, Jiaheng Liu, Kaigui Bian, Multi-Docker-Eval: A 'Shovel of the Gold Rush' Benchmark on
