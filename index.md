@@ -101,6 +101,10 @@ Automatic Environment Building for Software Engineering. arXiv preprint arXiv:25
 
 - **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, contributed to Coding Agentic Capabilities for Kimi K2, **Kimi K2: Open Agentic Intelligence**. arXiv preprint arXiv:2507.20534. [[paper](https://arxiv.org/pdf/2507.20534)]
 
+- **[<font color="#0000FF">Technical Report</font>]** **Yingwei Ma (Co-author)**, introducing Kimi-Dev:
+A Strong and Open-source Coding LLM for Issue Resolution, **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents**. arXiv preprint arXiv:2509.23045. [[paper](https://arxiv.org/abs/2509.23045)]
+
+
 - **[<font color="#0000FF">ASE'25</font>]** **Yingwei Ma**, Binhua Li, Yihong Dong, Xue Jiang, Rongyu Cao, Fei Huang, Yongbin Li, Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute. arXiv preprint arXiv:2503.23803. ASE'25, CCF-A. Accepted as an Industry Full Paper. [[paper](https://arxiv.org/abs/2503.23803)]
 
 - **[<font color="#0000FF">ISSTA'25</font> 🏆]** **Yingwei Ma**, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yibo Liu, Yuchen Liu, Binhua Li, Fei Huang, Yongbin Li, Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25), CCF-A. (**<font color="#FF0000">ACM SIGSOFT Distinguished Paper Award</font>, The Best Paper Award at The Conference**) [[paper](https://arxiv.org/pdf/2411.00622)] [[link](https://mp.weixin.qq.com/s/Qq2pb2PaHGwoDT50Rs4_bw)]
